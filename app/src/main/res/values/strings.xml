@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Glitch</string>
+    <string name="access_token" translatable="false">pk.eyJ1IjoiY2FtbWFjZSIsImEiOiJjaW9vbGtydnQwMDAwdmRrcWlpdDVoM3pjIn0.Oy_gHelWnV12kJxHQWV7XQ</string>
+
+</resources>
